@@ -1,0 +1,14 @@
+C:\Users\Halil AYDIN\Desktop\KURS\Projeler\Kartal Hoca\Windows Forms App\HamburgerciOtomasyonu\Ornek\obj\Debug\Ornek.csproj.AssemblyReference.cache
+C:\Users\Halil AYDIN\Desktop\KURS\Projeler\Kartal Hoca\Windows Forms App\HamburgerciOtomasyonu\Ornek\obj\Debug\Ornek.EkstraMalzemeEkle.resources
+C:\Users\Halil AYDIN\Desktop\KURS\Projeler\Kartal Hoca\Windows Forms App\HamburgerciOtomasyonu\Ornek\obj\Debug\Ornek.Form1.resources
+C:\Users\Halil AYDIN\Desktop\KURS\Projeler\Kartal Hoca\Windows Forms App\HamburgerciOtomasyonu\Ornek\obj\Debug\Ornek.MenüEkle.resources
+C:\Users\Halil AYDIN\Desktop\KURS\Projeler\Kartal Hoca\Windows Forms App\HamburgerciOtomasyonu\Ornek\obj\Debug\Ornek.Properties.Resources.resources
+C:\Users\Halil AYDIN\Desktop\KURS\Projeler\Kartal Hoca\Windows Forms App\HamburgerciOtomasyonu\Ornek\obj\Debug\Ornek.SiparisBilgileri.resources
+C:\Users\Halil AYDIN\Desktop\KURS\Projeler\Kartal Hoca\Windows Forms App\HamburgerciOtomasyonu\Ornek\obj\Debug\Ornek.SiparisOlustur.resources
+C:\Users\Halil AYDIN\Desktop\KURS\Projeler\Kartal Hoca\Windows Forms App\HamburgerciOtomasyonu\Ornek\obj\Debug\Ornek.csproj.GenerateResource.cache
+C:\Users\Halil AYDIN\Desktop\KURS\Projeler\Kartal Hoca\Windows Forms App\HamburgerciOtomasyonu\Ornek\obj\Debug\Ornek.csproj.CoreCompileInputs.cache
+C:\Users\Halil AYDIN\Desktop\KURS\Projeler\Kartal Hoca\Windows Forms App\HamburgerciOtomasyonu\Ornek\bin\Debug\Ornek.exe.config
+C:\Users\Halil AYDIN\Desktop\KURS\Projeler\Kartal Hoca\Windows Forms App\HamburgerciOtomasyonu\Ornek\bin\Debug\Ornek.exe
+C:\Users\Halil AYDIN\Desktop\KURS\Projeler\Kartal Hoca\Windows Forms App\HamburgerciOtomasyonu\Ornek\bin\Debug\Ornek.pdb
+C:\Users\Halil AYDIN\Desktop\KURS\Projeler\Kartal Hoca\Windows Forms App\HamburgerciOtomasyonu\Ornek\obj\Debug\Ornek.exe
+C:\Users\Halil AYDIN\Desktop\KURS\Projeler\Kartal Hoca\Windows Forms App\HamburgerciOtomasyonu\Ornek\obj\Debug\Ornek.pdb
